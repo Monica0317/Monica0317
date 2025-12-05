@@ -13,9 +13,10 @@
 <div align="center">
   <a href="https://github.com/Monica0317">
     <img 
-      src="https://readme-typing-svg.herokuapp.com/?lines=Junior%20Frontend%20Developer;Estudiante%20de%20Ingeniería%20Informática;React%20%7C%20TypeScript%20%7C%20Angular;Siempre%20aprendiendo&font=Pacifico&center=true&width=500&height=100&color=58a6ff&vCenter=true&size=40">
+      src="https://readme-typing-svg.herokuapp.com/?lines=Junior%20Frontend%20Developer;Estudiante%20de%20Ingeniería%20Informática;React%20%7C%20TypeScript%20%7C%20Angular;Siempre%20aprendiendo&font=Pacifico&center=true&width=800&height=150&color=58a6ff&vCenter=true&size=38">
   </a>
 </div>
+
 
 
 <!-- Contador de visitas -->
